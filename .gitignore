@@ -1,0 +1,7 @@
+/*.egg-info/
+/.eggs/
+/.tox/
+/tests/*.err
+
+__pycache__/
+*.pyc
