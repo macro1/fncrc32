@@ -9,6 +9,8 @@ in filenames.
 Usage
 -----
 
+    $ pip install git+https://github.com/macro1/fncrc32.git
+
     $ fncrc32 \[Commie\]\ *
       [ d533e298 ] "[Commie] Guilty Crown - 00 Lost Christmas [D533E298].mkv"
       [ 662bb1fd ] "[Commie] Guilty Crown - 01 [662BB1FD].mkv"
