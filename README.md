@@ -1,5 +1,6 @@
 FileName CRC32
 ==============
+![Build status](https://travis-ci.org/macro1/fncrc32.svg?branch=master)
 
 A tool to check file hashes against gzip compatible CRC32 hash values
 in filenames.
